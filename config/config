@@ -17,7 +17,7 @@ custom=true
 
 # ==================== SUSFS 各分支的 commit hash ====================
 # 仅当 custom=true 时生效
-gki-android12-5.10=9892175b4acec7ee844e113b8d02c0f4d12cdfac
+gki-android12-5.10=8930474a298d07ab9f1beca926779cbc3656b79e
 gki-android13-5.15=
 gki-android14-6.1=
 gki-android15-6.6=
@@ -25,4 +25,4 @@ gki-android16-6.12=
 
 # ==================== SukiSU 的 commit hash ====================
 # 仅当 custom=true 且使用 SukiSU 变体时生效
-sukisu=7c383cfeef3a2ac450f2f1273dae74bd50356d31
+sukisu=
